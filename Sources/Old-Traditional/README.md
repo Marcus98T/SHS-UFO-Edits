@@ -25,6 +25,7 @@ Here are a list of glyph suffixes. Taiwan will be the default glyph shape, so ge
 - uniXXXX<span>.</span>altpr - Alternate print form (Unicode example, 卽 as an alternate print form for 即) which is also commonplace in some old typefaces.
 - uniXXXX<span>.</span>noaxe - (Serif only) An alternate form which does not include the decorative axe in strokes like 乀. Inherited Glyphs adopts this standard by default, but in old media, this is less commonly seen.
 
-## List of glyphs
+## List of glyphs available
 
-Coming soon... as soon as I figure out how to present it in the most user-friendly way. There will be separate lists for Sans and Serif.
+- [Sans](glyphlist-old-traditional-sans.md)
+- [Serif](glyphlist-old-traditional-serif.md)
