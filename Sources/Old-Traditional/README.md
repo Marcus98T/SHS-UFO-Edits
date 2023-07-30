@@ -10,7 +10,7 @@ Right now, they mostly contain glyphs that I'm 100% sure will never make it into
 
 Regarding Inherited Glyphs, I believe it was created to standardise on the many different old forms throughout history. This will not be the main scope here as the plan is to recreate the forms seen in 1970s and 1980s newspapers and other media, which may not be deemed correct in the Inherited Glyphs standard.
 
-As of 30 July, a new release of the Source Han fonts is imminent due to the new GB 18030 standard, so I will check if any additional appropriate ideographs will be provided (or in some cases, restored from v1). It is also possible that some JP forms as seen in v2 (e.g. 立, 豆, 子, 戶, 人, etc.) might be unified to the CN forms. If such a scenario happens, the sources will retain the JP-style aesthetics as of v2 rather than adopt the new unified forms.
+As of 30 July 2023, a new release of the Source Han fonts is imminent due to the new GB 18030 standard, so I will check if any additional appropriate ideographs will be provided (or in some cases, restored from v1). It is also possible that some JP forms as seen in v2 (e.g. 立, 豆, 子, 戶, 人, etc.) might be unified to the CN forms. If such a scenario happens, the sources will retain the JP-style aesthetics as of v2 rather than adopt the new unified forms.
 
 ## Glyph naming
 
