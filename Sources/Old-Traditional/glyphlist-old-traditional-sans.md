@@ -15,7 +15,8 @@ uni516C           | 公         |                     | Source Han Sans fix
 uni5170           | 兰         |                     |                                                          
 uni5173           | 关         |                     |                                                          
 uni5241           | 剁         |                     |                                                          
-uni524E.inherited | 剎         |                     |                                                          
+uni524E           | 剎         |                     | Restored v1 JP glyph                                     
+uni524E.inherited | 剎         |                     | Modified from restored v1 JP glyph                       
 uni5256.HK        | 剖         |                     |                                                          
 uni5482           | 咂         |                     | Modified from restored v1 JP glyph                       
 uni5485.HK        | 咅         |                     |                                                          
