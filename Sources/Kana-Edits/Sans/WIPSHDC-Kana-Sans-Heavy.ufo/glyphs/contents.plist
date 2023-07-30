@@ -2,12 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>cid65466</key>
-	<string>cid65466.glif</string>
-	<key>cid65474</key>
-	<string>cid65474.glif</string>
 	<key>uni304D</key>
 	<string>uni304D_.glif</string>
+	<key>uni304Duni309A-V</key>
+	<string>uni304D_uni309A_-V_.glif</string>
 	<key>uni304E</key>
 	<string>uni304E_.glif</string>
 	<key>uni3055</key>
@@ -18,6 +16,8 @@
 	<string>uni30A_9.glif</string>
 	<key>uni30AA</key>
 	<string>uni30A_A_.glif</string>
+	<key>uni30AAuni3099-V</key>
+	<string>uni30A_A_uni3099-V_.glif</string>
 	<key>uni30DB</key>
 	<string>uni30D_B_.glif</string>
 	<key>uni30DC</key>
