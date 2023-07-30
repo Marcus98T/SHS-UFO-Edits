@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
+	<false/>
+	<key>com.schriftgestaltung.font.customParameters</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>ROS</string>
+			<key>value</key>
+			<string>Adobe-Identity-0</string>
+		</dict>
+	</array>
+	<key>com.schriftgestaltung.fontMasterID</key>
+	<string>94DDBC6A-1627-4027-9125-871D02041BCD</string>
+	<key>com.schriftgestaltung.glyphOrder</key>
+	<false/>
+	<key>com.schriftgestaltung.master.name</key>
+	<string>Heavy</string>
+	<key>com.schriftgestaltung.useNiceNames</key>
+	<false/>
+	<key>com.schriftgestaltung.weightValue</key>
+	<integer>1000</integer>
+	<key>public.glyphOrder</key>
+	<array>
+		<string>uni304D</string>
+		<string>uni304E</string>
+		<string>uni3055</string>
+		<string>uni3056</string>
+		<string>uni30AA</string>
+		<string>uni30A9</string>
+		<string>uni30DB</string>
+		<string>uni30DC</string>
+		<string>uni30DD</string>
+		<string>uniFF75</string>
+		<string>uniFF8E</string>
+		<string>uni3342</string>
+		<string>uni331E</string>
+		<string>uni3342-V</string>
+		<string>uni331E-V</string>
+		<string>uni304Duni309A-V</string>
+		<string>uni30AAuni3099-V</string>
+	</array>
+</dict>
+</plist>
