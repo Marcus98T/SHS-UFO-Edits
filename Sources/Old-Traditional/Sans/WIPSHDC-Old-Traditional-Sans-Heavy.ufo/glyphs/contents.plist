@@ -64,6 +64,8 @@
 	<string>uni5657.glif</string>
 	<key>uni56C6</key>
 	<string>uni56C_6.glif</string>
+	<key>uni57B9</key>
+	<string>uni57B_9.glif</string>
 	<key>uni57B9.inherited</key>
 	<string>uni57B_9.inherited.glif</string>
 	<key>uni57F9.HK</key>
@@ -102,8 +104,6 @@
 	<string>uni60F_3.glif</string>
 	<key>uni611B.HK</key>
 	<string>uni611B_.H_K_.glif</string>
-	<key>uni6123.HK</key>
-	<string>uni6123.H_K_.glif</string>
 	<key>uni62CB</key>
 	<string>uni62C_B_.glif</string>
 	<key>uni638A.HK</key>
