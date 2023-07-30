@@ -1,11 +1,5 @@
 # Source Han Sans/Serif UFO Edits
 
-_(思源黑體和宋體UFO文件編輯)_
-
-**Disclaimer:** The readmes are currently only available in English, as my written Chinese is subpar. A proper translation will come soon for Chinese users, but help is needed.
-
-**免責說明：** 該 README 目前只提供英文版，因為我中文不好。針對中文用戶的適當翻譯即將推出，不過需要幫助。
-
 ## About
 This is a quick-and-dirty repository to store my edits to [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) and [Serif](https://github.com/adobe-fonts/source-han-serif). For now, they are only provided in UFO and glyphspackage formats, the former for which can be read by most font editors and the latter specifically for [Glyphs for Mac](https://glyphsapp.com/). The sources are overlapped, which is suitable for variable fonts, and available in two masters, ExtraLight and Heavy.
 
@@ -14,6 +8,8 @@ It is divided into folder categories of orthography formats, followed by typefac
 **Please note:** This repository does not contain any final font files in OTF/TTF format as I currently lack the technical knowledge to re-compile Source Han Sans/Serif into a usable font with my own glyph edits. So for now, the best I can contribute is by releasing my edits as overlapping source-only formats. Anyone can use them in their own Source Han forks as they please.
 
 Regarding the versions, my edits are based on Source Han Sans v2.004 and Source Han Serif v2.001.
+
+The sources will be updated with new glyphs and adjustments periodically. They will be noted in their respective changelogs.
 
 ## Regarding the ridiculous names
 
