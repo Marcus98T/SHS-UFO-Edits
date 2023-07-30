@@ -5,19 +5,19 @@
 	<key>ascender</key>
 	<integer>880</integer>
 	<key>capHeight</key>
-	<integer>729</integer>
+	<integer>733</integer>
 	<key>descender</key>
 	<integer>-120</integer>
 	<key>familyName</key>
-	<string>WIPSHDC Old Traditional Serif</string>
+	<string>WIPSHDC-Old-Traditional-Sans</string>
 	<key>openTypeHeadCreated</key>
-	<string>2023/07/28 18:05:35</string>
+	<string>2023/07/28 17:35:57</string>
 	<key>openTypeHheaAscender</key>
-	<integer>1151</integer>
+	<integer>1160</integer>
 	<key>openTypeHheaDescender</key>
-	<integer>-286</integer>
+	<integer>-288</integer>
 	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Heavy</string>
+	<string>ExtraLight</string>
 	<key>openTypeOS2CodePageRanges</key>
 	<array>
 		<integer>0</integer>
@@ -30,7 +30,7 @@
 	<key>openTypeOS2Panose</key>
 	<array>
 		<integer>2</integer>
-		<integer>2</integer>
+		<integer>11</integer>
 		<integer>0</integer>
 		<integer>0</integer>
 		<integer>0</integer>
@@ -41,7 +41,7 @@
 		<integer>0</integer>
 	</array>
 	<key>openTypeOS2StrikeoutPosition</key>
-	<integer>308</integer>
+	<integer>325</integer>
 	<key>openTypeOS2StrikeoutSize</key>
 	<integer>50</integer>
 	<key>openTypeOS2Type</key>
@@ -66,7 +66,6 @@
 		<integer>48</integer>
 		<integer>49</integer>
 		<integer>50</integer>
-		<integer>51</integer>
 		<integer>54</integer>
 		<integer>55</integer>
 		<integer>57</integer>
@@ -79,28 +78,39 @@
 	<key>openTypeOS2VendorID</key>
 	<string></string>
 	<key>openTypeOS2WeightClass</key>
-	<integer>900</integer>
+	<integer>200</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
-	<integer>1151</integer>
+	<integer>1160</integer>
 	<key>openTypeOS2WinDescent</key>
-	<integer>286</integer>
+	<integer>288</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<real>-17.0</real>
+		<real>-16.0</real>
 		<real>0.0</real>
+		<real>543.0</real>
+		<real>559.0</real>
+		<real>733.0</real>
+		<real>749.0</real>
+		<real>880.0</real>
+		<real>896.0</real>
 	</array>
 	<key>postscriptFontName</key>
-	<string>WIPSHDCOldTraditionalSerif-Heavy</string>
+	<string>WIPSHDC-Old-Traditional-Sans-ExtraLight</string>
 	<key>postscriptOtherBlues</key>
-	<array/>
+	<array>
+		<real>-136.0</real>
+		<real>-120.0</real>
+	</array>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-150</integer>
 	<key>styleMapFamilyName</key>
-	<string>WIPSHDC Old Traditional Serif Heavy</string>
+	<string>WIPSHDC-Old-Traditional-Sans ExLight</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>Heavy</string>
+	<string>ExtraLight</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>
@@ -108,6 +118,6 @@
 	<key>versionMinor</key>
 	<integer>100</integer>
 	<key>xHeight</key>
-	<integer>514</integer>
+	<integer>543</integer>
 </dict>
 </plist>

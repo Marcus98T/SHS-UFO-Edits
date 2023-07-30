@@ -9,7 +9,7 @@
 	<key>descender</key>
 	<integer>-120</integer>
 	<key>familyName</key>
-	<string>WIPSHDC Old Traditional Serif</string>
+	<string>WIPSHDC-Old-Traditional-Serif</string>
 	<key>openTypeHeadCreated</key>
 	<string>2023/07/28 18:05:35</string>
 	<key>openTypeHheaAscender</key>
@@ -17,7 +17,7 @@
 	<key>openTypeHheaDescender</key>
 	<integer>-286</integer>
 	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>ExtraLight</string>
+	<string>Heavy</string>
 	<key>openTypeOS2CodePageRanges</key>
 	<array>
 		<integer>0</integer>
@@ -79,7 +79,7 @@
 	<key>openTypeOS2VendorID</key>
 	<string></string>
 	<key>openTypeOS2WeightClass</key>
-	<integer>200</integer>
+	<integer>900</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
@@ -88,19 +88,19 @@
 	<integer>286</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<real>-14.0</real>
+		<real>-17.0</real>
 		<real>0.0</real>
 	</array>
 	<key>postscriptFontName</key>
-	<string>WIPSHDCOldTraditionalSerif-ExtraLight</string>
+	<string>WIPSHDC-Old-Traditional-Serif-Heavy</string>
 	<key>postscriptOtherBlues</key>
 	<array/>
 	<key>styleMapFamilyName</key>
-	<string>WIPSHDC Old Traditional Serif ExLight</string>
+	<string>WIPSHDC-Old-Traditional-Serif Heavy</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>ExtraLight</string>
+	<string>Heavy</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>

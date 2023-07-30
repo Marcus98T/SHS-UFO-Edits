@@ -9,7 +9,7 @@
 	<key>descender</key>
 	<integer>-120</integer>
 	<key>familyName</key>
-	<string>WIPSHDC Kana Sans</string>
+	<string>WIPSHDC-Kana-Sans</string>
 	<key>openTypeHeadCreated</key>
 	<string>2023/07/28 17:35:57</string>
 	<key>openTypeHheaAscender</key>
@@ -97,7 +97,7 @@
 		<real>896.0</real>
 	</array>
 	<key>postscriptFontName</key>
-	<string>WIPSHDCKanaSans-ExtraLight</string>
+	<string>WIPSHDC-Kana-Sans-ExtraLight</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<real>-136.0</real>
@@ -106,7 +106,7 @@
 	<key>postscriptUnderlinePosition</key>
 	<integer>-150</integer>
 	<key>styleMapFamilyName</key>
-	<string>WIPSHDC Kana Sans ExtraLight</string>
+	<string>WIPSHDC-Kana-Sans ExtraLight</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
