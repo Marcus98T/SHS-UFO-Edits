@@ -5,7 +5,7 @@ This is a quick-and-dirty repository to store my edits to [Source Han Sans](http
 
 It is divided into folder categories of orthography formats, followed by typeface style. For now, there is only the traditional orthography format (Simplified Chinese: 旧字形/传承字形; Traditional Chinese: 舊字形/傳承字形) and some Japanese kana edits available. More orthography formats may follow in the near future.
 
-**Please note:** This repository does not contain any final font files in OTF/TTF format as I currently lack the technical knowledge to re-compile Source Han Sans/Serif into a usable font with my own glyph edits. So for now, the best I can contribute is by releasing my edits as overlapping source-only formats. Anyone can use them in their own Source Han forks as they please.
+**Please note:** This repository does not contain any final font files in OTF/TTF format as I currently lack the technical knowledge to re-compile Source Han Sans/Serif into a usable font with my own glyph edits. So for now, the best I can contribute is by releasing my edits as overlapping source-only formats. Anyone can use them in their own Source Han forks as they please. Also, the sources do not contain the entire font, only my glyph edits.
 
 Regarding the versions, my edits are based on Source Han Sans v2.004 and Source Han Serif v2.001.
 
