@@ -94,10 +94,6 @@
 	<string>uni5F_12.glif</string>
 	<key>uni5F12.inherited</key>
 	<string>uni5F_12.inherited.glif</string>
-	<key>uni5FCC.HK</key>
-	<string>uni5F_C_C_.H_K_.glif</string>
-	<key>uni5FCC.HK2</key>
-	<string>uni5F_C_C_.H_K_2.glif</string>
 	<key>uni6039</key>
 	<string>uni6039.glif</string>
 	<key>uni6073</key>
@@ -124,8 +120,6 @@
 	<string>uni6568.H_K_.glif</string>
 	<key>uni66A8.HK</key>
 	<string>uni66A_8.H_K_.glif</string>
-	<key>uni6703.inherited</key>
-	<string>uni6703.inherited.glif</string>
 	<key>uni6757</key>
 	<string>uni6757.glif</string>
 	<key>uni6757.JP</key>
@@ -146,8 +140,8 @@
 	<string>uni6B_F_0.H_K_.glif</string>
 	<key>uni6C26</key>
 	<string>uni6C_26.glif</string>
-	<key>uni6C26.JP</key>
-	<string>uni6C_26.J_P_.glif</string>
+	<key>uni6C26.HK</key>
+	<string>uni6C_26.H_K_.glif</string>
 	<key>uni6C8E</key>
 	<string>uni6C_8E_.glif</string>
 	<key>uni6CB7</key>

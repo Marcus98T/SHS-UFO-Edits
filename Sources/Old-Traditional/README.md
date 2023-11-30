@@ -6,11 +6,13 @@ They are called by several names including **traditional orthography**, **old fo
 
 As everybody knows, the glyph shapes are derived from the Japanese and Korean versions of Source Han Sans and Serif, unlike the official Chinese versions which follow their respective handwritten government orthography (Chinese: 楷化, 新字形).
 
-Right now, they mostly contain glyphs that I'm 100% sure will never make it into the main Adobe fonts due to their glyph policy. As for restoring v1 JP glyphs, only a few of them which I did improve over the original v1 sources will be released. There are many more v1 JP glyphs for which I manually restored as they were to make them suitable for variable font usage, but they will not be released for the time being, because that will depend on whether Adobe is willing to release the additional JP overlapping sources that did not make it to v1 and those that are removed in v2. However, this ideal scenario is unlikely to happen for business and technical reasons, and Adobe is simply not obligated to release all their unreleased sources just for a few people's sake, so I might later continue my work on manually restoring the v1 JP glyphs, and releasing them.
+Right now, they mostly contain glyphs that I'm 100% sure will never make it into the main Adobe fonts due to their glyph policy.
 
-Regarding Inherited Glyphs, I believe it was created to standardise on the many different old forms throughout Chinese history. This will not be the main scope here as the plan is to recreate the forms seen in 1970s and 1980s newspapers and other media, which may not be deemed correct in the Inherited Glyphs standard.
+As for restoring v1 JP glyphs, because Adobe is not giving the project some love recently with the exception of a few external requirements deemed bare minimum, I will release the manually recreated sources first.
 
-As of 31 July 2023, a new release of the Source Han fonts is imminent due to the new GB 18030 standard, so I will check if any additional appropriate ideographs will be provided (or in some cases, restored from v1). It is also possible that some JP forms as seen in v2 (e.g. 立, 豆, 子, 戶, 人, 夕, etc.) might be unified to the CN forms. If such a scenario happens, the sources will retain the JP-style aesthetics as of v2 rather than adopt the new unified forms.
+Regarding Inherited Glyphs, I believe it was created to standardise on the many different old forms throughout Chinese history. This will not be the main scope here as the plan is to recreate the forms seen in 1970s and 1980s newspapers and other media, which may not be deemed correct in the Inherited Glyphs standard. Regardless, many glyphs can be useful for the project.
+
+Regarding a potential major update to Source Han Sans in the future, it is possible that some JP forms as seen in v2 (e.g. 立, 豆, 子, 戶, 人, 夕, etc.) might be unified to the CN forms. If such a scenario happens, the sources will retain the JP-style aesthetics as of v2 rather than adopt the new unified forms.
 
 Some glyphs are taken from [Chiukong Gothic](https://github.com/ChiuMing-Neko/ChiuKongGothic), and some of those imported glyphs are improved on to make them more JP-like. They will be noted in the glyph lists below.
 
