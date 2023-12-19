@@ -51,4 +51,5 @@ As always, the sources are licensed under the SIL Open Font License.
 * ChiuMing-Neko for the [ChiuKong Gothic project (秋空黑體)](https://github.com/ChiuMing-Neko/ChiuKongGothic).
 * NightFurySL2001 for providing some support.
 * ButTaiwan for [GenYoGothic (源樣黑體)](https://github.com/ButTaiwan/genyog-font), for which I recreated the き and さ kana designs to work with variable format.
+* Tamcy for providing the sources to the [Chiron HK](https://github.com/chiron-fonts/chiron-hei-hk-gf) [font series](https://github.com/chiron-fonts/chiron-sung-hk-gf) for Google Fonts.
 * Ichitenfont for the [Inherited Glyph reference](https://github.com/ichitenfont/inheritedglyphs).

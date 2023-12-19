@@ -28,6 +28,10 @@ For Serif, the v1 JP glyphs covering Big5 Level 1 will be restored and released 
 
 Some glyphs are taken from [Chiukong Gothic](https://github.com/ChiuMing-Neko/ChiuKongGothic), and some of those imported glyphs are improved on to make them more JP-like. They will be noted in the glyph lists below.
 
+### Chiron Hei/Sung HK
+
+Some glyphs are also taken from [Chiron Hei HK](https://github.com/chiron-fonts/chiron-hei-hk-gf) and [Chiron Sung HK](https://github.com/chiron-fonts/chiron-sung-hk-gf), because of the author's efforts to beautify some Chinese glyphs and adopt some JP forms for aesthetic use. However, the font series is intended to emulate glyph shapes similar to Monotype HK, therefore still falling under modern handwriting standards (although not the official educational forms). Because of this, any glyphs used are modified to old-traditional forms.
+
 ### Future updates in Source Han Sans
 
 Regarding a potential major update to Source Han Sans in the future, it is possible that some JP forms as seen in v2 (e.g. 立, 豆, 子, 戶, 人, 夕, etc.) might be unified to the CN forms. If such a scenario happens, the sources will retain the v2 JP-style aesthetics rather than adopt the new unified forms.
