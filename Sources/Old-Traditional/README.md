@@ -54,6 +54,11 @@ Here are a list of glyph suffixes. Taiwan will be the default glyph shape, so ge
 - [Sans](glyphlist-old-traditional-sans.md)
 - [Serif](glyphlist-old-traditional-serif.md)
 
+## Changelog
+
+- [Sans](changelog-old-traditional-sans.md)
+- [Serif](changelog-old-traditional-serif.md)
+
 ## PDF Preview
 
 A visual representation of the glyph edits is available in PDF format, in ExtraLight, Regular and Heavy weights.
