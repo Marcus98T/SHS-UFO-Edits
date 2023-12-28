@@ -26,6 +26,7 @@
 	<key>public.glyphOrder</key>
 	<array>
 		<string>uni3B0A</string>
+		<string>uni3B0A.JP</string>
 		<string>uni3B55</string>
 		<string>uni3E74</string>
 		<string>uni4102</string>
@@ -52,6 +53,7 @@
 		<string>uni507A</string>
 		<string>uni507B</string>
 		<string>uni5087</string>
+		<string>uni5087.HK</string>
 		<string>uni50BC</string>
 		<string>uni50C1</string>
 		<string>uni50D7</string>
@@ -111,7 +113,9 @@
 		<string>uni5659</string>
 		<string>uni5689</string>
 		<string>uni56C6</string>
+		<string>uni56C6.inherited</string>
 		<string>uni56E2</string>
+		<string>uni574B</string>
 		<string>uni5792</string>
 		<string>uni57A6</string>
 		<string>uni57B9</string>
@@ -121,6 +125,7 @@
 		<string>uni57F9.HK</string>
 		<string>uni5838</string>
 		<string>uni587B</string>
+		<string>uni587B.HK</string>
 		<string>uni58C6</string>
 		<string>uni594B</string>
 		<string>uni5970</string>
@@ -137,8 +142,10 @@
 		<string>uni5C49</string>
 		<string>uni5C49.JP</string>
 		<string>uni5C58</string>
+		<string>uni5CCE</string>
 		<string>uni5E42</string>
 		<string>uni5E59</string>
+		<string>uni5E59.HK</string>
 		<string>uni5E60</string>
 		<string>uni5EB4</string>
 		<string>uni5F12</string>
@@ -155,11 +162,14 @@
 		<string>uni6123</string>
 		<string>uni6123.inherited</string>
 		<string>uni6154</string>
+		<string>uni6154.HK</string>
 		<string>uni61F1</string>
 		<string>uni61F1.HK</string>
 		<string>uni61F1.inherited</string>
 		<string>uni6267.JP</string>
 		<string>uni6270</string>
+		<string>uni6272</string>
+		<string>uni6274</string>
 		<string>uni629A</string>
 		<string>uni62B0</string>
 		<string>uni62CB</string>
@@ -188,7 +198,9 @@
 		<string>uni6671</string>
 		<string>uni66A8.HK</string>
 		<string>uni66AF</string>
+		<string>uni66AF.HK</string>
 		<string>uni66DE</string>
+		<string>uni66DE.inherited</string>
 		<string>uni6757</string>
 		<string>uni6757.JP</string>
 		<string>uni675E</string>
@@ -203,12 +215,14 @@
 		<string>uni68D3.HK</string>
 		<string>uni69A3</string>
 		<string>uni69B5</string>
+		<string>uni69B5.HK</string>
 		<string>uni6AA0</string>
 		<string>uni6AA0.HK</string>
 		<string>uni6AA0.inherited</string>
 		<string>uni6AE5</string>
 		<string>uni6B5C</string>
 		<string>uni6B76</string>
+		<string>uni6B76.inherited</string>
 		<string>uni6B95.HK</string>
 		<string>uni6BF0</string>
 		<string>uni6BF0.HK</string>
@@ -223,7 +237,9 @@
 		<string>uni6D42</string>
 		<string>uni6DAA.HK</string>
 		<string>uni6E03</string>
+		<string>uni6E03.HK</string>
 		<string>uni6E61</string>
+		<string>uni6E61.inherited</string>
 		<string>uni6F1C</string>
 		<string>uni6F55</string>
 		<string>uni6FAB</string>
@@ -231,6 +247,7 @@
 		<string>uni6FB4</string>
 		<string>uni6FBF</string>
 		<string>uni6FFF</string>
+		<string>uni6FFF.inherited</string>
 		<string>uni700E</string>
 		<string>uni700E.HK</string>
 		<string>uni700E.inherited</string>
@@ -240,6 +257,7 @@
 		<string>uni7067</string>
 		<string>uni7071</string>
 		<string>uni7074</string>
+		<string>uni708B</string>
 		<string>uni7093</string>
 		<string>uni70A3</string>
 		<string>uni70B7</string>
@@ -271,6 +289,7 @@
 		<string>uni71BD</string>
 		<string>uni71C6</string>
 		<string>uni71E4</string>
+		<string>uni71E4.inherited</string>
 		<string>uni71E8</string>
 		<string>uni7203</string>
 		<string>uni7205</string>
@@ -279,6 +298,7 @@
 		<string>uni7227</string>
 		<string>uni724A</string>
 		<string>uni72A1</string>
+		<string>uni72A1.inherited</string>
 		<string>uni72C5</string>
 		<string>uni733C</string>
 		<string>uni735B</string>
@@ -438,6 +458,7 @@
 		<string>uni914D</string>
 		<string>uni914D.HK2</string>
 		<string>uni9185.HK</string>
+		<string>uni92EF</string>
 		<string>uni9307</string>
 		<string>uni9307.HK</string>
 		<string>uni93A6</string>
@@ -455,9 +476,11 @@
 		<string>uni9963</string>
 		<string>uni996D</string>
 		<string>uni9971</string>
+		<string>uni9A6C</string>
 		<string>uni9D4B</string>
 		<string>uni9EB5</string>
 		<string>uni9EBA</string>
+		<string>uni9F22</string>
 		<string>uni9F98</string>
 		<string>uni9F98.HK</string>
 		<string>uni9F99</string>
