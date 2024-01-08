@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
+	<false/>
+	<key>com.schriftgestaltung.font.customParameters</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>ROS</string>
+			<key>value</key>
+			<string>Adobe-Identity-0</string>
+		</dict>
+	</array>
+	<key>com.schriftgestaltung.fontMasterID</key>
+	<string>94DDBC6A-1627-4027-9125-871D02041BCD</string>
+	<key>com.schriftgestaltung.glyphOrder</key>
+	<false/>
+	<key>com.schriftgestaltung.master.name</key>
+	<string>Heavy</string>
+	<key>com.schriftgestaltung.useNiceNames</key>
+	<false/>
+	<key>com.schriftgestaltung.weightValue</key>
+	<integer>1000</integer>
+	<key>public.glyphOrder</key>
+	<array>
+		<string>uni4E08</string>
+		<string>uni4E0D</string>
+		<string>uni4E14</string>
+		<string>uni4E15</string>
+		<string>uni4E3B</string>
+		<string>uni4E4D</string>
+		<string>uni4E4E</string>
+		<string>uni4EE3</string>
+		<string>uni4F60</string>
+		<string>uni5208</string>
+		<string>uni522B</string>
+		<string>uni5236</string>
+		<string>uni524D</string>
+		<string>uni5357</string>
+		<string>uni5514</string>
+		<string>uni553E</string>
+		<string>uni5F00</string>
+		<string>uni5FC5</string>
+		<string>uni601D</string>
+		<string>uni609F</string>
+		<string>uni60C5</string>
+		<string>uni60F3</string>
+		<string>uni6211</string>
+		<string>uni6709</string>
+		<string>uni675E</string>
+		<string>uni6C68</string>
+		<string>uni6C9B</string>
+		<string>uni706F</string>
+		<string>uni7269</string>
+		<string>uni72D9</string>
+		<string>uni76AE</string>
+		<string>uni79CB</string>
+		<string>uni914D</string>
+		<string>uni9175</string>
+		<string>uni9633</string>
+		<string>uni9634</string>
+		<string>uni9ED1</string>
+	</array>
+</dict>
+</plist>
