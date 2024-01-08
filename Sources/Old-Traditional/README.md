@@ -63,5 +63,5 @@ Here are a list of glyph suffixes. Taiwan will be the default glyph shape, so ge
 
 A visual representation of the glyph edits is available in PDF format, in ExtraLight, Regular and Heavy weights.
 
-- [Sans](Sources/Old-Traditional/Sans/Preview)
-- [Serif](Sources/Old-Traditional/Serif/Preview)
+- [Sans](Sans/Preview)
+- [Serif](Serif/Preview)
