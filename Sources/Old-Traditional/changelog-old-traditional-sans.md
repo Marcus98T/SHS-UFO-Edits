@@ -1,5 +1,43 @@
 # Changelog for Old Traditional Sans
 
+## 2024-01-09
+
+### Glyphs added
+| Glyph name        | Character | 
+| ----------------- | --------- |
+| uni52A8           | 动 |
+| uni540D           | 名 |
+| uni5B6C           | 孬 |
+| uni5B6D           | 孭 |
+| uni63B0           | 掰 |
+| uni6967           | 楧 |
+| uni6967.HK        | 楧 |
+| uni69E4           | 槤 |
+| uni6A57           | 橗 |
+| uni6A57.HK        | 橗 |
+| uni6C9B           | 沛 |
+| uni6C9B.inherited | 沛 |
+| uni70DA           | 烚 |
+| uni712C           | 焬 |
+| uni7178           | 煸 |
+| uni7237           | 爷 |
+| uni743C           | 琼 |
+| uni79EE           | 秮 |
+| uni7AB8           | 窸 |
+| uni7ACB           | 立 |
+| uni7C8E           | 粎 |
+| uni8914           | 褔 |
+| uni8BDD           | 话 |
+| uni8BED           | 语 |
+| uni8BF4           | 说 |
+| uni8BFE           | 课 |
+| uni8C01           | 谁 |
+
+### Glyphs modified
+| Glyph name        | Character | 
+| ----------------- | --------- |
+| uni8BF7           | 请  |
+
 ## 2023-12-29
 
 ### Glyphs added

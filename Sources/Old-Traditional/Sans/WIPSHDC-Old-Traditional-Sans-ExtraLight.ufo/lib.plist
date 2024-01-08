@@ -70,6 +70,7 @@
 		<string>uni5256.HK</string>
 		<string>uni5262</string>
 		<string>uni529E</string>
+		<string>uni52A8</string>
 		<string>uni52B2.JP</string>
 		<string>uni5340.inherited</string>
 		<string>uni535F</string>
@@ -77,6 +78,7 @@
 		<string>uni53EA</string>
 		<string>uni53FB</string>
 		<string>uni53FC</string>
+		<string>uni540D</string>
 		<string>uni5419</string>
 		<string>uni5423</string>
 		<string>uni5437</string>
@@ -135,6 +137,8 @@
 		<string>uni5AFA.HK</string>
 		<string>uni5B24</string>
 		<string>uni5B53</string>
+		<string>uni5B6C</string>
+		<string>uni5B6D</string>
 		<string>uni5B7B</string>
 		<string>uni5BBE</string>
 		<string>uni5BF3</string>
@@ -176,6 +180,7 @@
 		<string>uni630E</string>
 		<string>uni6315</string>
 		<string>uni638A.HK</string>
+		<string>uni63B0</string>
 		<string>uni63CD</string>
 		<string>uni63CD.JP</string>
 		<string>uni63DE</string>
@@ -213,9 +218,14 @@
 		<string>uni683A</string>
 		<string>uni6891</string>
 		<string>uni68D3.HK</string>
+		<string>uni6967</string>
+		<string>uni6967.HK</string>
 		<string>uni69A3</string>
 		<string>uni69B5</string>
 		<string>uni69B5.HK</string>
+		<string>uni69E4</string>
+		<string>uni6A57</string>
+		<string>uni6A57.HK</string>
 		<string>uni6AA0</string>
 		<string>uni6AA0.HK</string>
 		<string>uni6AA0.inherited</string>
@@ -232,6 +242,8 @@
 		<string>uni6C69</string>
 		<string>uni6C8E</string>
 		<string>uni6C8E.JP</string>
+		<string>uni6C9B</string>
+		<string>uni6C9B.inherited</string>
 		<string>uni6CB7</string>
 		<string>uni6CB7.JP</string>
 		<string>uni6D42</string>
@@ -266,6 +278,7 @@
 		<string>uni70CC</string>
 		<string>uni70CD</string>
 		<string>uni70D2</string>
+		<string>uni70DA</string>
 		<string>uni70EF</string>
 		<string>uni70F3</string>
 		<string>uni70F4</string>
@@ -273,6 +286,7 @@
 		<string>uni7119.HK</string>
 		<string>uni711F</string>
 		<string>uni7128</string>
+		<string>uni712C</string>
 		<string>uni713A</string>
 		<string>uni713B</string>
 		<string>uni7142</string>
@@ -283,6 +297,7 @@
 		<string>uni7158</string>
 		<string>uni715F</string>
 		<string>uni7170</string>
+		<string>uni7178</string>
 		<string>uni7181</string>
 		<string>uni7182</string>
 		<string>uni71BC</string>
@@ -296,6 +311,7 @@
 		<string>uni721E</string>
 		<string>uni7223</string>
 		<string>uni7227</string>
+		<string>uni7237</string>
 		<string>uni724A</string>
 		<string>uni72A1</string>
 		<string>uni72A1.inherited</string>
@@ -308,6 +324,7 @@
 		<string>uni740D</string>
 		<string>uni7423</string>
 		<string>uni7423.HK</string>
+		<string>uni743C</string>
 		<string>uni744C</string>
 		<string>uni74FF.HK</string>
 		<string>uni7535</string>
@@ -334,6 +351,9 @@
 		<string>uni7987</string>
 		<string>uni799A</string>
 		<string>uni79A4</string>
+		<string>uni79EE</string>
+		<string>uni7AB8</string>
+		<string>uni7ACB</string>
 		<string>uni7B01</string>
 		<string>uni7B1A</string>
 		<string>uni7B1D</string>
@@ -351,6 +371,7 @@
 		<string>uni7BFF</string>
 		<string>uni7C0A</string>
 		<string>uni7C1D</string>
+		<string>uni7C8E</string>
 		<string>uni7CCB</string>
 		<string>uni7CD0</string>
 		<string>uni7D00.HK</string>
@@ -425,6 +446,7 @@
 		<string>uni8500.HK2</string>
 		<string>uni8500.inherited</string>
 		<string>uni87D1.HK</string>
+		<string>uni8914</string>
 		<string>uni8921</string>
 		<string>uni8921.HK</string>
 		<string>uni8A18.HK</string>
@@ -436,7 +458,12 @@
 		<string>uni8BA4</string>
 		<string>uni8BA9</string>
 		<string>uni8BBE</string>
+		<string>uni8BDD</string>
+		<string>uni8BED</string>
+		<string>uni8BF4</string>
 		<string>uni8BF7</string>
+		<string>uni8BFE</string>
+		<string>uni8C01</string>
 		<string>uni8CE0.HK</string>
 		<string>uni8D77.HK</string>
 		<string>uni8D77.JP</string>
