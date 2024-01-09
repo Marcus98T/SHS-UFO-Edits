@@ -2,7 +2,9 @@
 
 ## Overview
 
-Source Han Sans/Serif, being a pan-CJK font, fulfils an objective for a seemingly consistent sans-serif font with different glyph shapes for different locales.
+_While this description is mainly about Source Han Sans, the same can be said for Source Han Serif._
+
+Source Han Sans, being a pan-CJK font, fulfils an objective for a seemingly consistent sans-serif font with different glyph shapes for different locales.
 
 However, it comes with an aesthetic cost: Some of the Adobe-Japan1 glyphs look ugly.
 
@@ -12,7 +14,7 @@ This is because of several reasons:
 * Several design differences (e.g. 立, 豆, 子, 戶, 人, 金, 夕, etc.) are considered regional differences. Some people feel that these are unnecessary as other similar commercial Chinese typefaces adopt JP-style designs (especially the 人 and 金 components) without a problem.
 * And because of these, a lot of similar-looking JP glyphs (both within and outside of Adobe-Japan1) are sacrificed in favour of CN-style design when having to squeeze as many characters as possible within the 65,535 glyph limit.
 
-This repository intends to “restore” the original Japanese design aesthetics of Source Han Sans/Serif, by recreating what they could have looked like. With these glyphs, uncompromised by CN-style design, the design for the Japanese, Korean and old Traditional Chinese locales are better harmonised and unified.
+This repository intends to “restore” the original Japanese design aesthetics of Source Han Sans, by recreating what they could have looked like. With these glyphs, uncompromised by CN-style design, the design for the Japanese, Korean and old Traditional Chinese locales are better harmonised and unified.
 
 It will be periodically updated with new glyphs, focusing on the commonly-used characters in Chinese and Japanese, although some rare characters can appear as well.
 
