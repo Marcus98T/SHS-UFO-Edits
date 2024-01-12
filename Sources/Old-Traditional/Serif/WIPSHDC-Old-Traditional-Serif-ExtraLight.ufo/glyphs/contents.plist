@@ -12,6 +12,8 @@
 	<string>uni4E_49.J_P_.glif</string>
 	<key>uni4E49.noaxe</key>
 	<string>uni4E_49.noaxe.glif</string>
+	<key>uni4FC1</key>
+	<string>uni4F_C_1.glif</string>
 	<key>uni4FDE.inherited</key>
 	<string>uni4F_D_E_.inherited.glif</string>
 	<key>uni506F</key>
@@ -24,6 +26,8 @@
 	<string>uni53F_C_.glif</string>
 	<key>uni5406</key>
 	<string>uni5406.glif</string>
+	<key>uni5433</key>
+	<string>uni5433.glif</string>
 	<key>uni5478</key>
 	<string>uni5478.glif</string>
 	<key>uni549A</key>
@@ -44,6 +48,8 @@
 	<string>uni567A_.H_K_.glif</string>
 	<key>uni57C2</key>
 	<string>uni57C_2.glif</string>
+	<key>uni5A1B</key>
+	<string>uni5A_1B_.glif</string>
 	<key>uni5AFA.HK</key>
 	<string>uni5A_F_A_.H_K_.glif</string>
 	<key>uni5B53</key>
@@ -56,6 +62,10 @@
 	<string>uni5C_44.glif</string>
 	<key>uni5C44.JP</key>
 	<string>uni5C_44.J_P_.glif</string>
+	<key>uni609E</key>
+	<string>uni609E_.glif</string>
+	<key>uni60E6</key>
+	<string>uni60E_6.glif</string>
 	<key>uni6286</key>
 	<string>uni6286.glif</string>
 	<key>uni65B0.HK</key>
@@ -72,6 +82,10 @@
 	<string>uni6C_26.glif</string>
 	<key>uni6C26.HK</key>
 	<string>uni6C_26.H_K_.glif</string>
+	<key>uni6C61</key>
+	<string>uni6C_61.glif</string>
+	<key>uni752D</key>
+	<string>uni752D_.glif</string>
 	<key>uni7684.HK</key>
 	<string>uni7684.H_K_.glif</string>
 	<key>uni7CB5</key>
@@ -90,6 +104,14 @@
 	<string>uni85A_A_.H_K_2.glif</string>
 	<key>uni88AB.HK</key>
 	<string>uni88A_B_.H_K_.glif</string>
+	<key>uni8921</key>
+	<string>uni8921.glif</string>
+	<key>uni8921.HK</key>
+	<string>uni8921.H_K_.glif</string>
+	<key>uni8921.HK2</key>
+	<string>uni8921.H_K_2.glif</string>
+	<key>uni8921.inherited</key>
+	<string>uni8921.inherited.glif</string>
 	<key>uni896C.HK</key>
 	<string>uni896C_.H_K_.glif</string>
 	<key>uni896F.HK</key>
@@ -110,6 +132,8 @@
 	<string>uni8D_77.H_K_.glif</string>
 	<key>uni90E8.HK</key>
 	<string>uni90E_8.H_K_.glif</string>
+	<key>uni92D8</key>
+	<string>uni92D_8.glif</string>
 	<key>uni93A6</key>
 	<string>uni93A_6.glif</string>
 	<key>uni9485</key>

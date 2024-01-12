@@ -1,5 +1,30 @@
 # Changelog for Old Traditional Serif
 
+## 2024-01-12
+
+### Glyphs added
+| Glyph name | Character |
+| ---------- | --------- |
+| uni4FC1           | 俁 |
+| uni5433           | 吳 |
+| uni5A1B           | 娛 |
+| uni609E           | 悞 |
+| uni60E6           | 惦 |
+| uni6C61           | 污 |
+| uni752D           | 甭 |
+| uni8921           | 褡 |
+| uni8921.HK        | 褡 |
+| uni8921.HK2       | 褡 |
+| uni8921.inherited | 褡 |
+| uni92D8           | 鋘 |
+
+### Glyphs modified
+| Glyph name | Character |
+| ---------- | --------- |
+| uni6757    | 杗 |
+| uni6757.JP | 杗 |
+| uni8AA4    | 誤 |
+
 ## 2024-01-10
 
 ### Glyphs added
