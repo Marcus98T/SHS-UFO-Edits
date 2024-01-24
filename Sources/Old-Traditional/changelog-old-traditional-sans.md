@@ -1,6 +1,6 @@
 # Changelog for Old Traditional Sans
 
-## 2024-01-09
+## 2024-01-24
 
 ### Glyphs added
 | Glyph name        | Character |
