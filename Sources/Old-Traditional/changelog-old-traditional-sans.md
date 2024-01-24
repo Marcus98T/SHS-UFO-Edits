@@ -3,6 +3,45 @@
 ## 2024-01-09
 
 ### Glyphs added
+| Glyph name        | Character |
+| ----------------- | --------- |
+| uni4F41           | 佁  |
+| uni50B3           | 傳  |
+| uni50B3.HK        | 傳  |
+| uni562E           | 嘮  |
+| uni6C49           | 汉  |
+| uni6E2A           | 渪  |
+| uni6E2A.inherited | 渪  |
+| uni6F79           | 潹  |
+| uni717C           | 煼  |
+| uni720F           | 爏  |
+| uni78F0           | 磰  |
+| uni78F1           | 磱  |
+| uni7A2A           | 稪  |
+| uni7A2C           | 稬  |
+| uni7F88           | 羈  |
+| uni898A           | 覊  |
+| uni898A.inherited | 覊  |
+| uni93F9           | 鏹  |
+| uni93F9.HK        | 鏹  |
+| uni9420           | 鐠  |
+| uni9427           | 鐧  |
+| uni9B1E           | 鬞  |
+| u31C7F (Based on Chiron Hei HK) | 𱱿 (⿺皮卜) |
+
+### Glyphs modified
+| Glyph name | Character |
+| ---------- | --------- |
+| uni50D7    | 僗         |
+
+### Glyphs renamed
+| Glyph name        | Character |
+| ----------------- | --------- |
+| _u31C7F_ -> **u31C7F.altpr** | 𱱿 (⿰皮卜) |
+
+## 2024-01-09
+
+### Glyphs added
 | Glyph name        | Character | 
 | ----------------- | --------- |
 | uni52A8           | 动 |
