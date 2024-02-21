@@ -53,3 +53,4 @@ As always, the sources are licensed under the SIL Open Font License.
 * ButTaiwan for [GenYoGothic (源樣黑體)](https://github.com/ButTaiwan/genyog-font), for which I recreated the き and さ kana designs to work with variable format.
 * Tamcy for providing the sources to the [Chiron HK](https://github.com/chiron-fonts/chiron-hei-hk-gf) [font series](https://github.com/chiron-fonts/chiron-sung-hk-gf) for Google Fonts.
 * Ichitenfont for the [Inherited Glyph reference](https://github.com/ichitenfont/inheritedglyphs).
+* GuiWonder for his project to quickly create an alternate traditional orthography for Source Han Sans/Serif under the name [Advocate Ancient](https://github.com/GuiWonder/SourceHanToClassic). My plan is to improve the quality of his glyphs.

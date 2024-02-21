@@ -1,5 +1,34 @@
 # Changelog for Old Traditional Sans
 
+## 2024-02-22
+
+### Glyphs added
+| Glyph name        | Character |
+| ----------------- | --------- |
+| uni5B72    | 孲 |
+| uni9202    | 鈂 |
+| uni9203    | 鈃 |
+| uni922A    | 鈪 |
+| uni9231    | 鈱 |
+| uni924C    | 鉌 |
+| uni9254    | 鉔 |
+| uni92A3    | 銣 |
+| uni92A6    | 銦 |
+| uni92AA    | 銪 |
+| uni92C9    | 鋉 |
+| uni92CA    | 鋊 |
+| uni92E6    | 鋦 |
+| uni9312    | 錒 |
+| uni9338    | 錸 |
+| uni9476    | 鑶 |
+| uni9476.HK | 鑶 |
+
+### Glyphs modified
+| Glyph name | Character |
+| ---------- | --------- |
+| uni93F9    | 鏹 |
+| uni93F9.HK | 鏹 |
+
 ## 2024-01-24
 
 ### Glyphs added
