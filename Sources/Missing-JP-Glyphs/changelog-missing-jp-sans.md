@@ -1,5 +1,21 @@
 # Changelog for Missing JP Sans
 
+## 2024-02-24
+
+### Glyphs added
+| Glyph name        | Character | 
+| ----------------- | --------- |
+| uni4F5C | 作 |
+| uni51E6 | 処 |
+| uni5427 | 吧 |
+| uni5FEB | 快 |
+| uni628A | 把 |
+| uni64AD | 播 |
+| uni6C5F | 江 |
+| uni7247 | 片 |
+| uni800C | 而 |
+| uni8010 | 耐 |
+
 ## 2024-01-09
 
 ### Glyphs added
