@@ -26,13 +26,21 @@
 	<key>public.glyphOrder</key>
 	<array>
 		<string>u31C7F.altpr</string>
+		<string>uni3ABD</string>
 		<string>uni3B0A</string>
 		<string>uni3B0A.JP</string>
 		<string>uni3B55</string>
+		<string>uni3B7B</string>
+		<string>uni3BEC</string>
+		<string>uni3CD6</string>
 		<string>uni3E74</string>
 		<string>uni4102</string>
 		<string>uni4102.JP</string>
 		<string>uni41CA</string>
+		<string>uni44A2</string>
+		<string>uni4871</string>
+		<string>uni491E</string>
+		<string>uni4C07</string>
 		<string>uni4CB3</string>
 		<string>uni4E08</string>
 		<string>uni4E2B</string>
@@ -73,6 +81,7 @@
 		<string>uni524E.inherited</string>
 		<string>uni5256.HK</string>
 		<string>uni5262</string>
+		<string>uni5278.HK</string>
 		<string>uni529E</string>
 		<string>uni52A8</string>
 		<string>uni52B2.JP</string>
@@ -370,9 +379,11 @@
 		<string>uni7A2C</string>
 		<string>uni7AB8</string>
 		<string>uni7ACB</string>
+		<string>uni7AFC</string>
 		<string>uni7B01</string>
 		<string>uni7B1A</string>
 		<string>uni7B1D</string>
+		<string>uni7B42</string>
 		<string>uni7B44</string>
 		<string>uni7B58</string>
 		<string>uni7B63</string>
@@ -387,6 +398,7 @@
 		<string>uni7BFF</string>
 		<string>uni7C0A</string>
 		<string>uni7C1D</string>
+		<string>uni7C35</string>
 		<string>uni7C8E</string>
 		<string>uni7CCB</string>
 		<string>uni7CD0</string>
@@ -419,10 +431,14 @@
 		<string>uni80E3</string>
 		<string>uni8115</string>
 		<string>uni8119</string>
+		<string>uni812A</string>
+		<string>uni8134</string>
+		<string>uni8142</string>
 		<string>uni8144</string>
 		<string>uni8156</string>
 		<string>uni815C</string>
 		<string>uni8162</string>
+		<string>uni816C</string>
 		<string>uni81AB</string>
 		<string>uni81D0</string>
 		<string>uni81E2</string>
@@ -530,6 +546,9 @@
 		<string>uni9476</string>
 		<string>uni9476.HK</string>
 		<string>uni9485</string>
+		<string>uni9595</string>
+		<string>uni9595.JP</string>
+		<string>uni95AA</string>
 		<string>uni95E8</string>
 		<string>uni95EE</string>
 		<string>uni966A.HK</string>
@@ -566,6 +585,7 @@
 		<string>u26B0A.inherited</string>
 		<string>u270FD</string>
 		<string>u270FD.inherited</string>
+		<string>u2C317</string>
 		<string>u31C7F</string>
 	</array>
 </dict>
