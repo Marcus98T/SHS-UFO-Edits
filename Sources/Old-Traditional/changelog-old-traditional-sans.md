@@ -6,7 +6,6 @@
 | Glyph name        | Character |
 | ----------------- | --------- |
 | uni3ABD    | 㪽  |
-| ---------- | -- |
 | uni3B7B    | 㭻  |
 | uni3BEC    | 㯬  |
 | uni3CD6    | 㳖  |
