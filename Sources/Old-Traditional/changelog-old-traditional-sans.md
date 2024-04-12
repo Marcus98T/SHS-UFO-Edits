@@ -1,5 +1,33 @@
 # Changelog for Old Traditional Sans
 
+## 2024-04-12
+
+### Glyphs added
+| Glyph name        | Character |
+| ----------------- | --------- |
+| uni35C1           | 㗁 |
+| uni35D6           | 㗖 |
+| uni37FB           | 㟻 |
+| uni3863           | 㡣 |
+| uni3863.HK        | 㡣 |
+| uni38C3           | 㣃 |
+| uni399B           | 㦛 |
+| uni3A17           | 㨗 |
+| uni42A2           | 䊢 |
+| uni453B           | 䔻 |
+| uni4930           | 䤰 |
+| uni4B70           | 䭰 |
+| uni4D91           | 䶑 |
+| uni933C           | 錼 |
+| uni934F           | 鍏 |
+| uni934F.inherited | 鍏 |
+| uni9379           | 鍹 |
+| uni9385           | 鎅 |
+| uni93C0           | 鏀 |
+| uni9424           | 鐤 |
+| uni9440           | 鑀 |
+| uni9440.HK        | 鑀 |
+
 ## 2024-03-28
 
 ### Glyphs added

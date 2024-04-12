@@ -26,6 +26,14 @@
 	<key>public.glyphOrder</key>
 	<array>
 		<string>u31C7F.altpr</string>
+		<string>uni35C1</string>
+		<string>uni35D6</string>
+		<string>uni37FB</string>
+		<string>uni3863</string>
+		<string>uni3863.HK</string>
+		<string>uni38C3</string>
+		<string>uni399B</string>
+		<string>uni3A17</string>
 		<string>uni3ABD</string>
 		<string>uni3B0A</string>
 		<string>uni3B0A.JP</string>
@@ -37,11 +45,16 @@
 		<string>uni4102</string>
 		<string>uni4102.JP</string>
 		<string>uni41CA</string>
+		<string>uni42A2</string>
 		<string>uni44A2</string>
+		<string>uni453B</string>
 		<string>uni4871</string>
 		<string>uni491E</string>
+		<string>uni4930</string>
+		<string>uni4B70</string>
 		<string>uni4C07</string>
 		<string>uni4CB3</string>
+		<string>uni4D91</string>
 		<string>uni4E08</string>
 		<string>uni4E2B</string>
 		<string>uni4E3D</string>
@@ -537,12 +550,21 @@
 		<string>uni9307.HK</string>
 		<string>uni9312</string>
 		<string>uni9338</string>
+		<string>uni933C</string>
+		<string>uni934F</string>
+		<string>uni934F.inherited</string>
+		<string>uni9379</string>
+		<string>uni9385</string>
 		<string>uni93A6</string>
 		<string>uni93B3</string>
+		<string>uni93C0</string>
 		<string>uni93F9</string>
 		<string>uni93F9.HK</string>
 		<string>uni9420</string>
+		<string>uni9424</string>
 		<string>uni9427</string>
+		<string>uni9440</string>
+		<string>uni9440.HK</string>
 		<string>uni9476</string>
 		<string>uni9476.HK</string>
 		<string>uni9485</string>

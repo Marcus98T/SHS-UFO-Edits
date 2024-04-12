@@ -18,11 +18,11 @@ Regarding Inherited Glyphs, I believe it was created to standardise on the many 
 
 Because Adobe is not giving the project some love recently with the exception of a few external requirements deemed bare minimum, I have manually re-created and released most of the v1 JP sources (Sans only for now) to make them work with variable fonts.
 
-For Sans, the sources cover GB 2312, Tongyong, iiCore, Big5 (both L1 and L2) and Suppchara, with the exception of some characters that were already "restored" (like 95% close to the original v1 JP sources) in the Chiukong Gothic font. HKSCS will be covered in the future.
+For Sans, the sources cover GB 2312, Tongyong, iiCore, Big5 (both L1 and L2), HKSCS and Suppchara, with the exception of some characters that were already "restored" (like 95% close to the original v1 JP sources) in the Chiukong Gothic font.
 
 The restored sources may not be 100% accurate to the original v1 JP source, and some of the characters are also improved upon by fixing outline bugs or improving proportions, as noted in the glyph lists.
 
-For Serif, the v1 JP glyphs covering Big5 Level 1 will be restored and released in the future.
+For Serif, the v1 JP glyphs covering Big5 Level 1 will be restored and released in the future. However, Chiukong Mincho is also expected to be released in the near future, so not much work will be done here as Sans is currently of priority. I might, however, consider improving any glyphs being done on the other project.
 
 ### Chiukong Gothic
 

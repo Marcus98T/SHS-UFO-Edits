@@ -32,6 +32,22 @@
 	<string>u31C_7F_.glif</string>
 	<key>u31C7F.altpr</key>
 	<string>u31C_7F_.altpr.glif</string>
+	<key>uni35C1</key>
+	<string>uni35C_1.glif</string>
+	<key>uni35D6</key>
+	<string>uni35D_6.glif</string>
+	<key>uni37FB</key>
+	<string>uni37F_B_.glif</string>
+	<key>uni3863</key>
+	<string>uni3863.glif</string>
+	<key>uni3863.HK</key>
+	<string>uni3863.H_K_.glif</string>
+	<key>uni38C3</key>
+	<string>uni38C_3.glif</string>
+	<key>uni399B</key>
+	<string>uni399B_.glif</string>
+	<key>uni3A17</key>
+	<string>uni3A_17.glif</string>
 	<key>uni3ABD</key>
 	<string>uni3A_B_D_.glif</string>
 	<key>uni3B0A</key>
@@ -54,16 +70,26 @@
 	<string>uni4102.J_P_.glif</string>
 	<key>uni41CA</key>
 	<string>uni41C_A_.glif</string>
+	<key>uni42A2</key>
+	<string>uni42A_2.glif</string>
 	<key>uni44A2</key>
 	<string>uni44A_2.glif</string>
+	<key>uni453B</key>
+	<string>uni453B_.glif</string>
 	<key>uni4871</key>
 	<string>uni4871.glif</string>
 	<key>uni491E</key>
 	<string>uni491E_.glif</string>
+	<key>uni4930</key>
+	<string>uni4930.glif</string>
+	<key>uni4B70</key>
+	<string>uni4B_70.glif</string>
 	<key>uni4C07</key>
 	<string>uni4C_07.glif</string>
 	<key>uni4CB3</key>
 	<string>uni4C_B_3.glif</string>
+	<key>uni4D91</key>
+	<string>uni4D_91.glif</string>
 	<key>uni4E08</key>
 	<string>uni4E_08.glif</string>
 	<key>uni4E2B</key>
@@ -1054,18 +1080,36 @@
 	<string>uni9312.glif</string>
 	<key>uni9338</key>
 	<string>uni9338.glif</string>
+	<key>uni933C</key>
+	<string>uni933C_.glif</string>
+	<key>uni934F</key>
+	<string>uni934F_.glif</string>
+	<key>uni934F.inherited</key>
+	<string>uni934F_.inherited.glif</string>
+	<key>uni9379</key>
+	<string>uni9379.glif</string>
+	<key>uni9385</key>
+	<string>uni9385.glif</string>
 	<key>uni93A6</key>
 	<string>uni93A_6.glif</string>
 	<key>uni93B3</key>
 	<string>uni93B_3.glif</string>
+	<key>uni93C0</key>
+	<string>uni93C_0.glif</string>
 	<key>uni93F9</key>
 	<string>uni93F_9.glif</string>
 	<key>uni93F9.HK</key>
 	<string>uni93F_9.H_K_.glif</string>
 	<key>uni9420</key>
 	<string>uni9420.glif</string>
+	<key>uni9424</key>
+	<string>uni9424.glif</string>
 	<key>uni9427</key>
 	<string>uni9427.glif</string>
+	<key>uni9440</key>
+	<string>uni9440.glif</string>
+	<key>uni9440.HK</key>
+	<string>uni9440.H_K_.glif</string>
 	<key>uni9476</key>
 	<string>uni9476.glif</string>
 	<key>uni9476.HK</key>
