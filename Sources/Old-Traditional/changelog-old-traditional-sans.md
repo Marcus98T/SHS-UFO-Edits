@@ -1,5 +1,14 @@
 # Changelog for Old Traditional Sans
 
+## 2024-04-14
+
+### Glyphs modified
+| Glyph name        | Character |
+| ----------------- | --------- |
+| uni934F.inherited | 鍏 |
+| uni9F98           | 龘 |
+| u31C7F            | 𱱿 (⿺皮卜) |
+
 ## 2024-04-12
 
 ### Glyphs added
